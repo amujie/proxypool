@@ -1,6 +1,6 @@
 # your domain
 domain: jiuketao.herokuapp.com
-port:                 # default 12580
+port: 80                # default 12580
 
 # source list file
 source-files:
